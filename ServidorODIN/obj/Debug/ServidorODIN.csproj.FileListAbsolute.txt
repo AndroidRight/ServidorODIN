@@ -1,0 +1,6 @@
+c:\users\alejandro\documents\visual studio 2015\Projects\ServidorODIN\ServidorODIN\bin\Debug\ServidorODIN.exe.config
+c:\users\alejandro\documents\visual studio 2015\Projects\ServidorODIN\ServidorODIN\obj\Debug\ServidorODIN.csprojResolveAssemblyReference.cache
+c:\users\alejandro\documents\visual studio 2015\Projects\ServidorODIN\ServidorODIN\bin\Debug\ServidorODIN.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\ServidorODIN\ServidorODIN\bin\Debug\ServidorODIN.pdb
+c:\users\alejandro\documents\visual studio 2015\Projects\ServidorODIN\ServidorODIN\obj\Debug\ServidorODIN.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\ServidorODIN\ServidorODIN\obj\Debug\ServidorODIN.pdb
